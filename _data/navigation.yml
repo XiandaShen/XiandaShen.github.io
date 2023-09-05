@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "People"
-    url: /people/
+  - title: "cv"
+    url: /cv/
 
   - title: "Contact"
     url: /contact/    
