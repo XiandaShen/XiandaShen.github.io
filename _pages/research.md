@@ -19,7 +19,7 @@ Breakage process in granular materials
 ======
 Our research focuses on the effect of microscopic grain-scale processes on the deformation of anisotropic geological solids, as well as their interaction with pore fluids. Our goal is to expand the current understanding of how the granular systems behave under extreme pressure conditions. A fabric tensor was introduced in the expression of Helmholtz free energy to characterize the anisotropic elasticity and anisotropic yielding of granular media within the framework of breakage mechanics. The effects of relative humidity on the breakage and damage processes of cemented granular materials. A continuum breakage-damage model for high-porosity granular rocks has been formulated by incorporating moisture effects on the strength of the grains, as well as on the brittle cement bonds bridging them.
 
-![breakage](/images/breakage.png)![gif](/images/gif.gif)
+![breakage](/images/breakage.png)  ![gif](/images/gif.gif)
 
 Homogenization scheme for pressure-solution driven healing
 ======
