@@ -15,6 +15,6 @@ Tongji University
 
 Email: xshen@tongji.edu.cn
 
-Office: 221 Yantu Low
+Office: 221 Yantulow
 
 Mailbox: 1239 Siping Road, Tongji University, Shanghai, 200092
