@@ -19,10 +19,10 @@ Breakage process in granular materials
 ======
 Our research focuses on the effect of microscopic grain-scale processes on the deformation of anisotropic geological solids, as well as their interaction with pore fluids. Our goal is to expand the current understanding of how the granular systems behave under extreme pressure conditions. A fabric tensor was introduced in the expression of Helmholtz free energy to characterize the anisotropic elasticity and anisotropic yielding of granular media within the framework of breakage mechanics. The effects of relative humidity on the breakage and damage processes of cemented granular materials. A continuum breakage-damage model for high-porosity granular rocks has been formulated by incorporating moisture effects on the strength of the grains, as well as on the brittle cement bonds bridging them.
 
-![micro damage](/images/breakage.png)![micro damage](/images/gif.gif)
+![breakage](/images/breakage.png)![gif](/images/gif.gif)
 
 Homogenization scheme for pressure-solution driven healing
 ======
 Bedrock weakening is of wide interest because it influences landscape evolution, chemical weathering, and subsurface hydrology. A longstanding hypothesis states that bedrock weakening is driven by chemical weathering of minerals like biotite, which expand as they weather and create stresses sufficient to fracture rock. Here we build on recent advances in rock damage mechanics to develop a model for the influence of multi-mineral chemical weathering on bedrock damage, which is defined as the reduction in bedrock stiffness. We use biotite chemical weathering as an example application of this model to explore how the abundance, aspect ratio, and orientation affect the time-dependent evolution of bedrock damage during biotite chemical weathering.
 
-![micro damage](/images/healing.png)
+![healing](/images/healing.png)
