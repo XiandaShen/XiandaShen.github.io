@@ -33,3 +33,27 @@ model of pressure-solution, Petroleum Geoscience, DOI: 10.1144/petgeo2018-094.
 * X. Shen, C. Arson, 2019, An isotropic self-consistent homogenization scheme for
 chemo-mechanical healing driven by pressure solution in halite, International Journal
 of Solids and Structures, DOI: 10.1016/j.ijsolstr.2018.11.010.
+
+Peer-Reviewed Conference Proceedings
+======
+* X. Shen, C. Arson, J. Ding, F. Chester, J. Chester, Discrete frictional wing crack
+based damage model for salt rock, IS Atlanta 2018, ISSMGE conference micro-tomacro
+geomechanics from theory to practice, Atlanta, GA, Sept. 9-12, 2018.
+* X. Shen, C. Zhu, C. Arson, Analysis of microstructure, deformation and permeability
+of salt/sand mixtures during creep, 6th Biot Conference on Poromechanics, Paris,
+France, July 9-13, 2017.
+* X. Shen, C. Arson, J. Ding, F.M. Chester, J. Chester, Experimental characterization
+of microstructure development for calculating fabric and stiffness tensors in salt rock,
+51st US Rock Mechanics/Geomechanics Symposium of the American Rock Mechanics
+Association, San Francisco, CA, June 25-28, 2017.
+* J. Ding, F.M. Chester, J. Chester, X. Shen, C. Arson, Microcrack network development
+in salt rock during cyclic loading at low confining pressure, 51st US Rock
+Mechanics/Geomechanics Symposium of the American Rock Mechanics Association,
+San Francisco, CA, June 25-28, 2017.
+* C. Zhu, X. Shen, C. Arson, Numerical study of thermo-mechanical effects on the
+viscous damage behavior of rock salt caverns, 51st US Rock Mechanics/Geomechanics
+Symposium of the American Rock Mechanics Association, San Francisco, CA, June
+25-28, 2017.
+* X. Shen, C. Zhu, C. Arson, Chemo-mechanical damage and healing of granular salt:
+micro-macro modeling, 50th US Rock Mechanics/Geomechanics Symposium of the
+American Rock Mechanics Association, Houston, TX, June 26-29, 2016.
