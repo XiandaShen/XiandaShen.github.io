@@ -26,3 +26,8 @@ Homogenization scheme for pressure-solution driven healing
 Bedrock weakening is of wide interest because it influences landscape evolution, chemical weathering, and subsurface hydrology. A longstanding hypothesis states that bedrock weakening is driven by chemical weathering of minerals like biotite, which expand as they weather and create stresses sufficient to fracture rock. Here we build on recent advances in rock damage mechanics to develop a model for the influence of multi-mineral chemical weathering on bedrock damage, which is defined as the reduction in bedrock stiffness. We use biotite chemical weathering as an example application of this model to explore how the abundance, aspect ratio, and orientation affect the time-dependent evolution of bedrock damage during biotite chemical weathering.
 
 ![healing](/images/healing.png)
+
+Multi-scale analysis on granite bedrock weathering
+======
+Bedrock weakening is of wide interest because it influences landscape evolution, chemical weathering, and subsurface hydrology. A longstanding hypothesis states that bedrock weakening is driven by chemical weathering of minerals like biotite, which expand as they weather and create stresses sufficient to fracture rock. Here we build on recent advances in rock damage mechanics to develop a model for the influence of multi-mineral chemical weathering on bedrock damage, which is defined as the reduction in bedrock stiffness. We use biotite chemical weathering as an example application of this model to explore how the abundance, aspect ratio, and orientation affect the time-dependent evolution of bedrock damage during biotite chemical weathering.
+![weathering](/images/weathering.png)
