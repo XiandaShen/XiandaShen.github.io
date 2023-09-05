@@ -7,6 +7,8 @@ author_profile: true
 
 Peer-Reviewed Journal Papers
 ======
+* X. Shen, F. Marinelli, and G. Buscarnera, 2022. Constitutive modeling of structured granular materials with anisotropic grain skeleton and cement bonds. Acta Geotechnica, DOI: 10.1007/s11440-022-01717-z.
+* T. Xu, X. Shen, M. Reed, N. West, K. L. Ferrier, and C. Arson, 2022. Anisotropy and microcrack propagation induced by weathering, regional stresses and topographic stresses. Journal of Geophysical Research: Solid Earth, DOI: 10.1029/2022JB024518.
 * X. Shen, G. Buscarnera, 2022, Fabric-enriched Continuum Breakage Mechanics
 (F-CBM), Géotechnique DOI: 10.1680/jgeot.21.00308.
 * X. Shen, G. Buscarnera, 2022, A breakage–damage framework for porous granular
