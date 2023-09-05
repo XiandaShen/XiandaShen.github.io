@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the Multi-scale Geomechanics Lab!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+At the multi-scale geomechanics lab, we work on multi-scale geomechanical modeling, Thermo-Hydro-Chemo-Mechanical (THCM) couplings in porous and fractured media, and the application of data-driven methods to geotechnical engineering.
+
+A major focal point of our work over the coming years is to gain a further understanding of the microscopic properties and the THCM coupling processes that characterize the macroscopic properties of geomaterials. The overarching goal of these activities is to develop a rigorous and mechanics-based framework for predicting the evolution of intrinsic properties and the mechanical behavior of materials. Our research aims to shed light on the resilient and sustainable geotechnical and geological engineering systems (e.g., CO2 sequestration, Hydrogen storage, Lunar soils).
 
 A data-driven personal website
 ======
