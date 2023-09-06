@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Jobs"
 permalink: /jobs/
