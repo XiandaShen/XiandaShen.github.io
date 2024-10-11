@@ -4,6 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+   * Fall 2024, Tongji University University
+      * Poromechanics in deep underground engineering
   * Spring 2023, Clarkson University
       * Statics
       * Theoretical Geomechanics
