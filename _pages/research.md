@@ -14,7 +14,7 @@ Drainage and imbibition process of hydrogen storage in underground porous media
 Hydrogen is a clean, efficient, and potential energy source with net-zero carbon emissions. While hydrogen storage is one of the technical issues that restrict the development of hydrogen storage. Comparing to other hydrogen storage approaches, geological hydrogen storage in saline aquifer enjoys a lot of advantages, such as a large storage capacity and great tightness. The injection and production efficiency and storage capacity of geological hydrogen in saline aquifer is closely related to the movement of hydrogen in porous media and the interaction between hydrogen, underground water, and rock. In this project, microfluidics experiments and numerical analysis of drainage and imbibition process will be performed at the micro-scale to
 understand the movement of hydrogen in the porous media, the injection and production mechanism of hydrogen, and the influence of the injection rate and the microstructure of rock on the injection and production efficiency. This project will shed light on the theory and design of geological hydrogen storage and the development of deep underground space.
 
-![0005](/images/0005.gif)
+![0005](/images/0005.gif) ![004](/images/004.gif)
 
 Fabric-enriched damage mechanics
 ======
